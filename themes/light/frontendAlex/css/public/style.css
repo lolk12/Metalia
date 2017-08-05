@@ -1,0 +1,65 @@
+#menu-0 .navbar {
+  background-color: rgba(21, 29, 43, 0.5); }
+
+.mbr-arrow a {
+  transform: rotateX(180deg);
+  position: fixed;
+  top: 92%; }
+
+body {
+  overflow-x: hidden; }
+
+.row h1 {
+  padding-bottom: 40px;
+  color: #F3EEE1; }
+
+.full-width-main {
+  background-size: 100% 100%;
+  background-position: left center; }
+
+.full-width-sellers {
+  background-color: #394C5F; }
+  .full-width-sellers .row h1 {
+    color: #F3EEE1; }
+
+.full-width-buyers, .full-width-mission {
+  background-color: #F3EEE1; }
+  .full-width-buyers .row h1, .full-width-mission .row h1 {
+    color: #394C5F; }
+  .full-width-buyers .row p, .full-width-mission .row p {
+    color: #394C5F; }
+
+.full-width-regInSys, .full-width-about-company {
+  background-color: #22323F;
+  width: 100%; }
+
+.site-signup p {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif; }
+
+.site-signup label {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif; }
+
+.site-signup button {
+  background-color: #3B8F87;
+  border: none; }
+
+footer {
+  background-color: #151D2B !important; }
+  footer h5 {
+    padding-bottom: 10px;
+    word-spacing: 4px;
+    font-family: 'Montserrat', sans-serif; }
+  footer p {
+    padding-bottom: 4px;
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif; }
+
+.full-width-rules-of-work {
+  background-color: #151D2B;
+  background-image: url("../../../assets/images/11569597.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center top;
+  width: 100%; }

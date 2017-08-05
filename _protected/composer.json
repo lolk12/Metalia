@@ -1,0 +1,5 @@
+{
+    "require": {
+        "vova07/yii2-imperavi-widget": "*"
+    }
+}
